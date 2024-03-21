@@ -782,3 +782,6 @@
 	return Heti;
 
 })));
+
+const heti = new Heti('.group');
+heti.autoSpacing();
