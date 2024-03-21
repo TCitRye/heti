@@ -783,5 +783,5 @@
 
 })));
 
-const heti = new Heti('.group');
+const heti = new Heti('#root');
 heti.autoSpacing();
